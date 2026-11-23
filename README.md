@@ -20,7 +20,7 @@ No install and no account. Everything runs in your browser, offline. Only the NA
 - **Land at 12 real sites.** Apollo 11 and Apollo 17, the lunar south pole, Jezero, Gale Crater and Olympus Mons on Mars, Caloris and Prokofiev on Mercury, Venera 13 and Maat Mons on Venus, Conamara Chaos on Europa and the Huygens site on Titan. You can also ride the Galileo probe into Jupiter's clouds.
 - **Click to learn.** Planets, moons, rocks, spacecraft and landmarks open short info cards with sources. Everything you find goes into your discovery journal (75 entries).
 - **Read your suit.** Live readings for temperature, pressure, gravity, radiation, sunlight and distance to the Sun. Yellow alerts warn you when a place would be deadly for a real astronaut.
-- **Listen to your guide.** A calm narrator welcomes you, counts down each departure and shares facts about the route and the destination during the flight. Subtitles are always shown.
+- **Listen to your guide.** A calm narrator welcomes you, counts down each departure and shares facts about the route and the destination during the flight. She speaks English; subtitles are always shown in your chosen language.
 - **Relax to the music.** Soft, planetarium-style background music is generated live in your browser and changes with the scene.
 - **Learn on the way.** During each flight you get travel tips, a trip log and a short, plain-language look at how relativity would affect a real journey.
 - **Browse NASA pictures.** A curated gallery of real mission images for every destination.
@@ -78,7 +78,7 @@ Some things are simplified so the game stays playable:
 - Mouse and keyboard.
 - About 9 MB of disk space.
 
-The recorded narrator voice uses the Opus audio format. If your browser can't play it (some older Safari versions), VISOR uses your system's built-in voice instead.
+The recorded narrator voice uses the Opus audio format. If your browser can't play it (some older Safari versions), you still get the subtitles.
 
 ## Credits and sources
 
@@ -87,7 +87,7 @@ The recorded narrator voice uses the Opus audio format. If your browser can't pl
 - **Mars, Mercury, Venus, Jupiter and Saturn textures:** [Solar System Scope](https://www.solarsystemscope.com/textures/) (CC BY 4.0), based on NASA data. Europa and Titan are generated in code.
 - **Planet positions:** JPL Keplerian elements and the IAU rotation model for Mars.
 - **Gallery images:** NASA/JPL-Caltech and partner missions, loaded from NASA's servers.
-- **Narrator voice:** recorded with ElevenLabs.
+- **Narrator voice:** [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache 2.0), voice bf_emma, generated offline.
 - **3D engine:** [three.js](https://threejs.org) (MIT).
 - **Sound effects and music:** synthesised live in the browser.
 
