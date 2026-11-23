@@ -21,6 +21,7 @@ No install and no account. Everything runs in your browser, offline. Only the NA
 - **Click to learn.** Planets, moons, rocks, spacecraft and landmarks open short info cards with sources. Everything you find goes into your discovery journal (75 entries).
 - **Read your suit.** Live readings for temperature, pressure, gravity, radiation, sunlight and distance to the Sun. Yellow alerts warn you when a place would be deadly for a real astronaut.
 - **Listen to your guide.** A calm narrator welcomes you, counts down each departure and shares facts about the route and the destination during the flight. She speaks English; subtitles are always shown in your chosen language.
+- **Have cards read to you.** Every info card has a speaker button that reads it aloud in English.
 - **Relax to the music.** Soft, planetarium-style background music is generated live in your browser and changes with the scene.
 - **Learn on the way.** During each flight you get travel tips, a trip log and a short, plain-language look at how relativity would affect a real journey.
 - **Browse NASA pictures.** A curated gallery of real mission images for every destination.
@@ -76,7 +77,7 @@ Some things are simplified so the game stays playable:
 
 - A desktop browser with WebGL (any recent Chrome, Edge, Firefox or Safari).
 - Mouse and keyboard.
-- About 9 MB of disk space.
+- About 17 MB of disk space.
 
 The recorded narrator voice uses the Opus audio format. If your browser can't play it (some older Safari versions), you still get the subtitles.
 
